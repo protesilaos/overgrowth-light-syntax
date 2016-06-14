@@ -1,0 +1,18 @@
+{
+  "name": "overgrowth-syntax",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "description": "Medium-to-high contrast.",
+  "keywords": [
+    "syntax",
+    "green",
+    "orange",
+    "yellow",
+    "light"
+  ],
+  "repository": "https://github.com/protesilaos/overgrowth-light-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0"
+  }
+}

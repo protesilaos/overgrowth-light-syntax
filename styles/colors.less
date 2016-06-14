@@ -1,0 +1,49 @@
+// Overgrowth Syntax Theme
+
+// Color scheme -----------------------------------
+
+@dbg: #233F34; // Dark background
+@dhl: #334F44; // Dark highlight
+@dt2: #637F74; // Dark bg text secondary
+@dt1: #93AFA4; // Dark bg text primary
+
+@lbg: #E6E5D2; // Light background
+@lhl: #D6D5C2; // Light highlight
+@lt2: #A6A592; // Light bg text secondary
+@lt1: #767562; // Light bg text primary
+
+@red: #CA4A4A; // Red
+@ora: #BB7628; // Orange
+@yel: #A8950D; // Yellow
+@gre: #4BA212; // Green
+
+@cya: #15B59B; // Cyan
+@blu: #359FCA; // Blue
+@vio: #8A6EBB; // Violet
+@mag: #BB6E8A; // Magenta
+
+// Variables -----------------------------------
+
+@text-1: @dt1; // text primary
+@text-2: @dt2; // text secondary
+
+@color-1: @gre; // color primary
+@color-2: @ora; // color secondary
+@color-3: @yel; // color tertiary
+
+@support-1: @mag; // support primary
+@support-2: @cya; // support secondary
+
+@accent-1: @blu; // accent primary
+@accent-2: @vio; // accent secondary
+@accent-3: @red; // accent tertiary
+
+// Base vars -----------------------------------
+
+@syntax-fg: @text-1; // text primary
+@syntax-accent: @accent-1; // accent primary
+@syntax-bg: @dbg; // background
+@syntax-guide: @dhl; // background highlight
+@syntax-selection: @syntax-guide;
+@syntax-selection-gutter: @syntax-guide;
+@syntax-cursor-line: fade(@syntax-selection, 26%); // needs to be semi-transparent to show serach results
