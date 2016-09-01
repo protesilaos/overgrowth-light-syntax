@@ -2,12 +2,12 @@
   "name": "overgrowth-syntax",
   "theme": "syntax",
   "version": "0.1.0",
-  "description": "Medium-to-high contrast. Feels tropical.",
+  "description": "Medium-to-high contrast theme. Inspired by vegetation.",
   "keywords": [
     "syntax",
     "green",
     "orange",
-    "yellow",
+    "red",
     "light"
   ],
   "repository": "https://github.com/protesilaos/overgrowth-light-syntax",
