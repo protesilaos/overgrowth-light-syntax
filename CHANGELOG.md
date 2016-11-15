@@ -11,3 +11,8 @@
  - `secondary1` from `mag` to `yel`
  - `secondary2` from `cya` to `mag`
  - `tertiary3` from `red` to `cya`
+
+## 1.1.0
+- Refinements to JavaScript.
+- Refinements to Markdown.
+- Minor improvements to editor styles.
