@@ -22,6 +22,6 @@ apm install overgrowth-syntax
 
 ## Further information
 
-Project page: [http://www.protesilaos.com/overgrowth](http://www.protesilaos.com/overgrowth)
+Project page: [https://protesilaos.com/overgrowth](https://protesilaos.com/overgrowth)
 
 Overgrowth dark version: [https://atom.io/themes/overgrowth-dark-syntax](https://atom.io/themes/overgrowth-dark-syntax)
